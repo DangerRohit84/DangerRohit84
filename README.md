@@ -78,15 +78,6 @@ I enjoy building practical projects, learning core computer science concepts, an
 
 ---
 
-## Education
-
-**B.Tech – Artificial Intelligence & Machine Learning**  
-Aditya University, Surampalem  
-CGPA: 8.7 / 10  
-(Expected 2028)
-
----
-
 ## Contact
 
 📧 Email: desinarohit2007@gmail.com  
