@@ -1,84 +1,98 @@
-👋 Hi, I'm Rohit (Desina Rohit)
+# Hi, I'm Rohit 👋
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
-📍 Aditya University, Surampalem
-💻 Passionate about Software Development, Web Technologies, and Problem Solving
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🏫 Aditya University, Surampalem  
+💻 Aspiring Software Developer | Web Developer | Problem Solver
 
-🚀 About Me
+---
 
-I’m a motivated engineering student with a strong foundation in Data Structures & Algorithms, Web Development, and Core Programming.
-I enjoy building real-world projects, learning system-level concepts, and continuously improving my coding skills through competitive programming and hands-on development.
+## About Me
 
-🛠️ Skills
-Programming Languages
+I am a passionate engineering student with strong interest in software development and web technologies.  
+I enjoy building practical projects, learning core computer science concepts, and improving my skills through competitive programming.
 
-C, C++, Python, Java
+---
 
-Web Development
+## Skills
 
-HTML, CSS, JavaScript
+### Programming Languages
+- C
+- C++
+- Python
+- Java
 
-ReactJS, TypeScript, Node.js
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- TypeScript
+- Node.js
 
-Databases
+### Databases
+- MySQL
+- MongoDB
 
-MySQL, MongoDB
+### Tools
+- GitHub
+- VS Code
+- Linux
 
-Tools & Platforms
+### Core Subjects
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- DBMS
 
-GitHub, VS Code, Linux
+---
 
-Core Subjects
+## Projects
 
-Data Structures & Algorithms
+### Library Seat Reservation System
+**Technologies:** HTML, TypeScript, JavaScript, MongoDB  
+- Web-based system to manage 100+ library seats  
+- Student authentication and admin control  
+- Real-time seat booking and cancellation  
+- Reduced manual effort by 80%
 
-Object-Oriented Programming
+### Guess Number Game
+**Technology:** Python  
+- Command-line based number guessing game  
+- Implemented optimized hint logic
 
-Operating Systems (Linux)
+---
 
-DBMS
+## Achievements
 
-📌 Projects
-📚 Library Seat Reservation System
+- Maintained 20+ public GitHub repositories  
+- Solved 150+ problems on LeetCode  
+- Completed 1000+ CodeChef challenges  
+- Solved 100+ HackerRank problems in C++, Python, and SQL
 
-Tech Stack: HTML, TypeScript, JavaScript, MongoDB
+---
 
-Web-based system to manage 100+ library seats with student authentication
+## Certifications
 
-Real-time seat availability, booking, cancellation, and admin controls
+- Certiport: Excel, Power BI  
+- CISO: C, C++
 
-Reduced manual seat allocation effort by 80%
+---
 
-🎯 Guess Number Game
+## Education
 
-Tech Stack: Python
+**B.Tech – Artificial Intelligence & Machine Learning**  
+Aditya University, Surampalem  
+CGPA: 8.7 / 10  
+(Expected 2028)
 
-CLI-based number guessing game
+---
 
-Implemented optimized hint logic for better user interaction
+## Contact
 
-🏆 Achievements
+📧 Email: desinarohit2007@gmail.com  
+💻 GitHub: https://github.com/your-username  
+🔗 LinkedIn: https://linkedin.com/in/your-profile  
 
-⭐ Maintained 20+ public GitHub repositories
+---
 
-🧠 Solved 150+ LeetCode problems
-
-🔥 Completed 1000+ CodeChef challenges
-
-🧪 Solved 100+ HackerRank problems in C++, Python, and SQL
-
-📜 Certifications
-
-Certiport: Excel, Power BI
-
-CISO: C, C++
-
-📫 Connect With Me
-
-Email: desinarohit2007@gmail.com
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-Portfolio: (Add your link here)
+⭐ Feel free to explore my repositories and give a star if you like my work!
