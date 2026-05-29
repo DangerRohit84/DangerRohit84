@@ -81,8 +81,7 @@ I enjoy building practical projects, learning core computer science concepts, an
 ## Contact
 
 📧 Email: desinarohit2007@gmail.com  
-💻 GitHub: https://github.com/your-username  
-🔗 LinkedIn: https://linkedin.com/in/your-profile  
+🔗 LinkedIn: https://www.linkedin.com/in/rohit-desina  
 
 ---
 
