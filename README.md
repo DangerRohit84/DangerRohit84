@@ -1,142 +1,260 @@
-# Hi, I'm Rohit 👋
+<div align="center">
 
-### AI/ML Student • Full-Stack Developer • Builder
+<a href="https://github.com/DangerRohit84">
+  <img src="./assets/profile-header.svg" alt="Rohit Desina — AI/ML Student, Full-Stack Developer and Builder" width="100%"/>
+</a>
 
-🎓 **B.Tech — Artificial Intelligence & Machine Learning** at **Aditya University**  
-📍 Andhra Pradesh, India  
-💡 I build practical software products, experiment with AI, and turn ideas into working prototypes.
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-DangerRohit84-181717?style=for-the-badge&logo=github)](https://github.com/DangerRohit84)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Desina-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-desina)
+<p align="center">
+  <a href="https://github.com/DangerRohit84?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-50%2B-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
+  <a href="https://github.com/DangerRohit84">
+    <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-0f766e?style=for-the-badge" alt="Focus"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-desina">
+    <img src="https://img.shields.io/badge/Open%20to-Interesting%20Builds-4f46e5?style=for-the-badge" alt="Open to interesting builds"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <strong>I build software that moves from idea → prototype → product.</strong><br/>
+  AI applications · Full-stack systems · Developer tools · Student-focused products · Computer vision
+</p>
 
-## 🚀 What I Build
-
-I enjoy working across the stack — from interfaces and APIs to databases, AI integrations, automation, and deployment.
-
-- 🤖 **AI-powered applications** and intelligent workflows
-- 🌐 **Full-stack web applications** with React, Node.js, Express and modern TypeScript
-- 🧠 **Machine Learning / Computer Vision** experiments
-- 🏫 **Student & campus technology** for academic and career workflows
-- 🛠️ **Hackathon prototypes** focused on real-world problems
-
----
-
-## 🧩 Featured Projects
-
-### 🏫 CampusFlow
-> A multi-tenant campus operating system for academics, collaboration, career growth and AI-assisted workflows.
-
-**Built with:** React • Vite • TypeScript • Tailwind CSS • Node.js • Express • Prisma • PostgreSQL • Socket.IO • AI APIs
-
-🔗 **[View Repository →](https://github.com/DangerRohit84/CampusFlow)**
-
-### 🌾 KisaanMitra
-> A voice-first agricultural assistant for farmers with crop diagnosis, weather, mandi information, maps and SMS fallback.
-
-**Built with:** React • Vite • Tailwind • Node.js • Express • Firebase • Gemini • Genkit • Cloud Run
-
-🔗 **[View Repository →](https://github.com/DangerRohit84/KisaanMitra)**
-
-### 🏟️ StadiumIQ
-> A GenAI-powered smart stadium command center and fan assistant with crowd intelligence, emergency workflows, navigation, analytics and multilingual interaction.
-
-**Built with:** Python • Flask • Socket.IO • Gemini • SQLite • Chart.js • Docker
-
-🔗 **[View Repository →](https://github.com/DangerRohit84/StadiumIQ)**
+<p align="center">
+  <a href="https://github.com/DangerRohit84">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/rohit-desina">LinkedIn</a> ·
+  <a href="mailto:desinarohit2007@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 👋 About
 
-**Languages**
+I'm **Rohit Desina**, an **Artificial Intelligence & Machine Learning** student at **Aditya University** in Andhra Pradesh, India.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+I like working at the intersection of **AI and practical software engineering**. Most of my projects start with a real problem, then grow through rapid prototyping, API design, data modeling, UI work, testing, and deployment.
 
-**Frontend & Backend**
+I'm especially interested in:
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Data, AI & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**AI / Cloud**
-
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+- 🤖 Generative AI, LLM applications & AI agents
+- 🌐 Full-stack web development
+- 🧠 Computer vision & intelligent interfaces
+- 📱 On-device / offline AI
+- ⚙️ Automation, developer tooling & system design
+- 🏗️ Building products that are actually usable
 
 ---
 
-## 📊 Coding & GitHub
+## 🧭 What I'm Building Around
 
-- 🧩 **900+** CodeChef problems
-- 💻 **100+** LeetCode problems
-- 🏆 Competitive programming across CodeChef, LeetCode and HackerRank
-- 📦 Multiple public projects spanning web development, AI, campus platforms and hackathons
+<table>
+<tr>
+<td width="25%" align="center">
+  <h3>🤖 AI</h3>
+  LLM apps<br/>
+  AI agents<br/>
+  Multimodal workflows
+</td>
+<td width="25%" align="center">
+  <h3>🌐 Web</h3>
+  React<br/>
+  Node.js<br/>
+  TypeScript
+</td>
+<td width="25%" align="center">
+  <h3>🧠 ML</h3>
+  Computer vision<br/>
+  Intelligent systems<br/>
+  On-device AI
+</td>
+<td width="25%" align="center">
+  <h3>🏗️ Product</h3>
+  Prototyping<br/>
+  APIs & databases<br/>
+  Deployment
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 [CampusFlow](https://github.com/DangerRohit84/CampusFlow)
+**A multi-tenant campus operating system**
+
+CampusFlow brings academic workflows, collaboration, career growth, realtime communication and AI-assisted features into one platform.
+
+**Core stack:** <code>React</code> <code>Vite</code> <code>TypeScript</code> <code>Tailwind</code> <code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Socket.IO</code>
+
+---
+
+### 🌾 [KisaanMitra](https://github.com/DangerRohit84/KisaanMitra)
+**Voice-first agricultural intelligence for farmers**
+
+An AI-assisted agricultural platform combining crop diagnosis, Hindi interaction, weather, mandi information, maps and an SMS fallback workflow.
+
+**Core stack:** <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Node.js</code> <code>Express</code> <code>Firebase</code> <code>Gemini</code> <code>Genkit</code> <code>Cloud Run</code>
+
+---
+
+### 🏟️ [StadiumIQ](https://github.com/DangerRohit84/StadiumIQ)
+**Smart stadium command center + fan assistant**
+
+A simulation-driven platform for crowd intelligence, emergency response, navigation, analytics, multilingual interaction and fan experience.
+
+**Core stack:** <code>Python</code> <code>Flask</code> <code>Socket.IO</code> <code>Gemini</code> <code>SQLite</code> <code>Chart.js</code> <code>Docker</code>
+
+---
+
+### 🪪 [CertiHub](https://github.com/DangerRohit84/CertiHub)
+**AI-powered credential intelligence**
+
+Turns certificates into structured, searchable career data using multimodal AI, OCR, skill extraction, institutional workflows and portfolio features.
+
+**Core stack:** <code>React</code> <code>Express</code> <code>Firebase</code> <code>Groq</code> <code>Llama Vision</code> <code>Cloudinary</code>
+
+---
+
+### 🤝 [MeetFlow AI](https://github.com/DangerRohit84/Meetflow)
+**Meeting intelligence & follow-up automation**
+
+Transforms meeting transcripts into actionable tasks, decisions, deadlines and assignments with multi-provider AI support.
+
+**Core stack:** <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Prisma</code> <code>PostgreSQL</code> <code>AI APIs</code>
+
+---
+
+### 🧪 [UniHack Product Intelligence](https://github.com/DangerRohit84/unihack-product-intelligence)
+**High-volume product data enrichment pipeline**
+
+Transforms a small structured product dataset into a much richer attribute set using category-aware extraction, normalization and validation.
+
+**Core stack:** <code>Python</code> <code>CLI</code> <code>Data Pipelines</code> <code>Schema Validation</code>
+
+---
+
+## 🛠️ Tech I Use
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&perline=6" alt="Programming languages"/>
+</p>
+
+### Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,nodejs,express&perline=6" alt="Web and backend stack"/>
+</p>
+
+### Data, Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,docker,linux,git,github&perline=7" alt="Data cloud and devops stack"/>
+</p>
+
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" alt="Groq"/>
+  <img src="https://img.shields.io/badge/OpenAI-Compatible%20APIs-111827?style=for-the-badge" alt="OpenAI compatible APIs"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-2D2A8A?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/GenAI-0F766E?style=for-the-badge" alt="Generative AI"/>
+</p>
+
+---
+
+## 📈 GitHub at a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DangerRohit84&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangerRohit84&layout=compact&hide_border=true&langs_count=8" height="165"/>
+<a href="https://github.com/DangerRohit84">
+  <img src="https://github-readme-stats.vercel.app/api?username=DangerRohit84&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/DangerRohit84">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangerRohit84&layout=compact&hide_border=true&langs_count=8" height="175" alt="Most used languages"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DangerRohit84&hide_border=true" />
+<a href="https://github.com/DangerRohit84">
+  <img src="https://streak-stats.demolab.com?user=DangerRohit84&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
 ---
 
-## 🛠️ Currently Exploring
+## 🧩 Selected Repositories
 
-- Generative AI and LLM-powered applications
-- On-device / offline AI
-- AI agents and automation
-- Computer vision
-- Scalable full-stack architecture
-- Better developer tooling and product UX
-
----
-
-## 🎯 2026 Focus
-
-> **Build more. Ship more. Learn from every project.**
-
-I'm currently focused on turning hackathon ideas and student-focused concepts into usable products with solid engineering foundations.
+| Repository | What it is |
+|---|---|
+| [**CampusFlow**](https://github.com/DangerRohit84/CampusFlow) | Multi-tenant campus platform |
+| [**KisaanMitra**](https://github.com/DangerRohit84/KisaanMitra) | AI agricultural assistant |
+| [**StadiumIQ**](https://github.com/DangerRohit84/StadiumIQ) | Smart stadium intelligence |
+| [**CertiHub**](https://github.com/DangerRohit84/CertiHub) | AI credential platform |
+| [**Meetflow**](https://github.com/DangerRohit84/Meetflow) | Meeting intelligence |
+| [**Smart-PDF-Reader**](https://github.com/DangerRohit84/Smart-PDF-Reader) | Intelligent PDF workflow |
+| [**OMNIBOT**](https://github.com/DangerRohit84/OMNIBOT) | Agentic knowledge extraction |
+| [**Offline-Reels**](https://github.com/DangerRohit84/Offline-Reels) | Offline-first media experiment |
+| [**JanSevaAI**](https://github.com/DangerRohit84/JanSevaAI) | AI-focused civic application |
+| [**Carbon-Footprint-Awareness-Platform**](https://github.com/DangerRohit84/Carbon-Footprint-Awareness-Platform) | Personal carbon tracking |
 
 ---
 
-## 📫 Connect
+## 🧠 Currently Exploring
 
-📧 **Email:** [desinarohit2007@gmail.com](mailto:desinarohit2007@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/rohit-desina](https://www.linkedin.com/in/rohit-desina)  
-🐙 **GitHub:** [github.com/DangerRohit84](https://github.com/DangerRohit84)
+<code>LLM Agents</code> · <code>RAG</code> · <code>Multimodal AI</code> · <code>On-Device AI</code> · <code>Computer Vision</code> · <code>Offline-First Apps</code> · <code>System Design</code> · <code>Developer Experience</code>
+
+> I care about the full loop: understanding the problem, building the system, testing it, shipping it, and improving it.
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 💻 Build | 🧠 Learn | 🚀 Ship |
+|:---:|:---:|:---:|
+| Full-stack systems | AI / ML | Hackathon prototypes |
+| AI-powered products | Computer vision | Working demos |
+| Developer tools | System design | Deployments |
+
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+I enjoy participating in **hackathons, innovation programs and student technology communities**, especially when they force me to build under real constraints and communicate an idea clearly.
+
+I also keep experimenting with projects that explore how **AI can work locally, intelligently and practically** instead of only being a chat interface.
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:desinarohit2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-desinarohit2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-desina">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Desina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/DangerRohit84">
+    <img src="https://img.shields.io/badge/GitHub-DangerRohit84-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
+### ⚡ Build boldly. Learn continuously. Ship useful things.
 
-⭐ Check out my repositories and follow my build journey.
+<sub>Thanks for stopping by — explore the repositories below and see what I'm building.</sub>
 
 </div>
