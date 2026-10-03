@@ -1,0 +1,47 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1330" cy="90" r="150" fill="#6366f1" opacity=".11" filter="url(#glow)"/>
+  <circle cx="1460" cy="310" r="190" fill="#06b6d4" opacity=".09" filter="url(#glow)"/>
+
+  <path d="M0 332 C260 235 440 440 720 320 C980 210 1190 365 1600 235" fill="none" stroke="url(#accent)" stroke-width="3" stroke-opacity=".42"/>
+  <path d="M0 348 C270 250 450 456 735 338 C1000 227 1210 382 1600 252" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity=".10"/>
+
+  <rect x="86" y="82" width="8" height="210" rx="4" fill="url(#accent)"/>
+  <text x="130" y="148" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800">ROHIT DESINA</text>
+  <text x="132" y="202" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="500">AI / ML Student  ·  Full-Stack Developer  ·  Builder</text>
+  <text x="132" y="248" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Building practical products across AI, web, automation &amp; computer vision.</text>
+
+  <g transform="translate(1110 112)">
+    <rect x="0" y="0" width="320" height="170" rx="18" fill="#0b1020" stroke="#ffffff" stroke-opacity=".09"/>
+    <circle cx="38" cy="38" r="7" fill="#67e8f9"/>
+    <circle cx="62" cy="38" r="7" fill="#a78bfa"/>
+    <circle cx="86" cy="38" r="7" fill="#34d399"/>
+    <text x="28" y="82" fill="#64748b" font-family="Consolas,monospace" font-size="16">$ whoami</text>
+    <text x="28" y="112" fill="#e2e8f0" font-family="Consolas,monospace" font-size="18">roh<span fill="#67e8f9">it</span>@github</text>
+    <text x="28" y="140" fill="#94a3b8" font-family="Consolas,monospace" font-size="16">ship • learn • iterate</text>
+  </g>
+
+  <text x="132" y="364" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Aditya University  •  Andhra Pradesh, India</text>
+  <text x="1468" y="364" text-anchor="end" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">github.com/DangerRohit84</text>
+</svg>
