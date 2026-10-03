@@ -4,6 +4,10 @@
   <img src="./assets/profile-header.svg" alt="Rohit Desina — AI/ML Student, Full-Stack Developer and Builder" width="100%"/>
 </a>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=45&lines=AI%2FML+Student+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Builder;Turning+ideas+into+working+products;AI+%E2%80%A2+Web+%E2%80%A2+Automation+%E2%80%A2+Computer+Vision;Build+boldly.+Learn+continuously.+Ship+useful+things." alt="Typing animation"/>
+
 </div>
 
 <p align="center">
@@ -185,23 +189,6 @@ Transforms a small structured product dataset into a much richer attribute set u
 </a>
 
 </div>
-
----
-
-## 🧩 Selected Repositories
-
-| Repository | What it is |
-|---|---|
-| [**CampusFlow**](https://github.com/DangerRohit84/CampusFlow) | Multi-tenant campus platform |
-| [**KisaanMitra**](https://github.com/DangerRohit84/KisaanMitra) | AI agricultural assistant |
-| [**StadiumIQ**](https://github.com/DangerRohit84/StadiumIQ) | Smart stadium intelligence |
-| [**CertiHub**](https://github.com/DangerRohit84/CertiHub) | AI credential platform |
-| [**Meetflow**](https://github.com/DangerRohit84/Meetflow) | Meeting intelligence |
-| [**Smart-PDF-Reader**](https://github.com/DangerRohit84/Smart-PDF-Reader) | Intelligent PDF workflow |
-| [**OMNIBOT**](https://github.com/DangerRohit84/OMNIBOT) | Agentic knowledge extraction |
-| [**Offline-Reels**](https://github.com/DangerRohit84/Offline-Reels) | Offline-first media experiment |
-| [**JanSevaAI**](https://github.com/DangerRohit84/JanSevaAI) | AI-focused civic application |
-| [**Carbon-Footprint-Awareness-Platform**](https://github.com/DangerRohit84/Carbon-Footprint-Awareness-Platform) | Personal carbon tracking |
 
 ---
 
