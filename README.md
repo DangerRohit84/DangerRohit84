@@ -174,7 +174,7 @@ Transforms a small structured product dataset into a much richer attribute set u
 <div align="center">
 
 <a href="https://github.com/DangerRohit84">
-  <img src="https://github-readme-stats.vercel.app/api?username=DangerRohit84&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DangerRohit84&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=21600" height="175" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/DangerRohit84">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangerRohit84&layout=compact&hide_border=true&langs_count=8" height="175" alt="Most used languages"/>
